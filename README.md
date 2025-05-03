@@ -1,4 +1,4 @@
-# Function-Helper
+# function-helper
 
 Description:
 Enables users to plot, calculate the value, gradient, and roots of a function of their choice.
